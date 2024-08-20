@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Platane/snk" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LeandroSD/LeandroSD/output/snake.svg" alt="Snake animation" />
 
 ###
